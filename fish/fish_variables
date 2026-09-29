@@ -1,0 +1,7 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR fish_color_user:C1E1C1
+SETUVAR fish_color_normal:C1E1C1
+SETUVAR fish_color_user:\x239BB4C0
+SETUVAR fish_greeting:
+SETUVAR my_color:C1E1C1
